@@ -14,13 +14,13 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        180;
-    --pios-glow-intensity:  1;
+    --pios-glow-hue:        7;
+    --pios-glow-intensity:  .5;
     --pios-spacing:         1;
-    --pios-accent-hue:      0;
-    --pios-title-text:      "piOS v2.1.01p";
+    --pios-accent-hue:      5;
+    --pios-title-text:      "VERSAGENS";
 
-    --crt-stripe:   block;
+    --crt-stripe:   none;
     --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
     --crt-flicker:  none;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
