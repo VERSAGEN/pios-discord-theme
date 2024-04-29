@@ -20,9 +20,9 @@
     --pios-accent-hue:      5;
     --pios-title-text:      "VERSAGENS";
 
-    
-    --crt-scanline: block;   /* ⛐ This effect is performance-intensive. */
-    --crt-flicker:  flicker;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+    --crt-stripe: none
+    --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
+    --crt-flicker:  none;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
 
 .theme-dark {
